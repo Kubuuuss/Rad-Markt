@@ -1,27 +1,4 @@
 
-
-*{
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-
-body button,body div {
-  transition: all 0.3s ease-in-out;
-}
-
-
-body {
-  font-family: "Montserrat",sans-serif;
-}
-
-
-
-header {
-  background-color: black;
-  color: white;
-  display: flex;
-  padding: 30px ;
   position: sticky;
   top: 0;
   z-index: 1;
